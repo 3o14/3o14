@@ -3,7 +3,7 @@
 ## **소개**
 
 - **이름** : 이원주 | Lee Won Ju | Mirei
-- **이메일** : turtle4265@naver.com | dldnjswn4265@gmail.com
+- **이메일** : 3o14.dev@gmail.com | turtle4265@naver.com
 
 <a href="https://github.com/3o14">
     <img 
