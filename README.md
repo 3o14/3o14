@@ -1,7 +1,7 @@
 <div>
   <div align="center">
 
-  <img src="./img/3o14-profile.png" style="width:200px; border-radius:50%; ">
+  <img src="./img/3o14-profile.png" style="border-radius:50%" width="200px">
 
 ### 이원주 (3o14)
 
