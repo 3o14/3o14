@@ -1,7 +1,8 @@
 <div>
   <div align="center">
 
-  <img src="./img/3o14-profile.png" style="border-radius:50%" width="200px">
+  <img width="200px" alt="프로필2" src="https://github.com/wooyeonhan-inyeons/client-web/assets/101818687/0287fb40-de1c-469b-843b-f2e2d60da8e5"
+  style="border-radius:50%">
 
 ### 이원주 (3o14)
 
