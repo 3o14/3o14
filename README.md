@@ -1,7 +1,7 @@
 <div>
   <div align="center">
 
-  <img width="200px" alt="프로필2" src="https://github.com/wooyeonhan-inyeons/client-web/assets/101818687/0287fb40-de1c-469b-843b-f2e2d60da8e5"
+  <img width="200" alt="프로필2" src="https://github.com/3o14/3o14/assets/101818687/0454f398-1425-48a6-9534-bc6fa07f4829"
   style="border-radius:50%">
 
 ### 이원주 (3o14)
