@@ -53,7 +53,7 @@
 </a>
 <a href="https://solved.ac/turtle4265">
     <img 
-         src="http://mazassumnida.wtf/api/generate_badge?boj=turtle4265" width=50% />
+         src="http://mazassumnida.wtf/api/generate_badge?boj=turtle4265" width=40% />
 </a>
 </div>
 <!-- 
