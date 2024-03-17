@@ -1,29 +1,16 @@
 <div>
   <div align="center">
 
-  <img width="200" alt="프로필2" src="https://github.com/3o14/3o14/assets/101818687/0454f398-1425-48a6-9534-bc6fa07f4829"
-  style="border-radius:50%">
-
-### 이원주 (3o14)
+### 👋🏻 Hi there, I'm Wonju Lee
 
 <a href="https://blog.naver.com/thinks-3o14"><img src="https://img.shields.io/badge/DiaryBlog-3DDC84?style=badge&logo=Naver&logoColor=white"/></a>
 <a href="https://www.instagram.com/want_u.u/"><img src="https://img.shields.io/badge/Instagram-F60070?style=badge&logo=Instagram&logoColor=pink"/></a>
 <a href="https://www.youtube.com/@user-sb9ss1dx5g/videos"><img src="https://img.shields.io/badge/VLOG-c4302b?style=badge&logo=Youtube&logoColor=white"/></a>
 
 </div>
-<br/>
 <div align="center">
 
-## 🛠️ Stacks 🛠️
-
-### Collaboration
-
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=black">
-<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white">
-<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-
-### Frontend
+### Skills
 
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> 
@@ -35,6 +22,13 @@
 <br/>
 <img src="https://img.shields.io/badge/React_query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
 <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
+
+### Collaboration
+
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=black">
+<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white">
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 </div>
 
@@ -55,11 +49,11 @@
 <div align="center">
 <a href="https://github.com/3o14">
     <img 
-        src="https://github-readme-stats.vercel.app/api?username=3o14&hide=stars&border_radius=8"/>
+        src="https://github-readme-stats.vercel.app/api?username=3o14&hide=stars&border_radius=8" width=50% />
 </a>
 <a href="https://solved.ac/turtle4265">
     <img 
-        src="http://mazassumnida.wtf/api/generate_badge?boj=turtle4265"/>
+         src="http://mazassumnida.wtf/api/generate_badge?boj=turtle4265" width=50% />
 </a>
 </div>
 <!-- 
