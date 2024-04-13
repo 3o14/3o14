@@ -1,6 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=👋🏻%20Welcome%20to%203o14's%20GitHub&fontSize=40&fontAlignY=50&fontAlign=50&height=180&animation=twinkling)
 <div>
   <div align="center">
-
+  
 ### 👋🏻 Hi there, I'm Wonju Lee
 
 <a href="https://blog.naver.com/thinks-3o14"><img src="https://img.shields.io/badge/DiaryBlog-3DDC84?style=badge&logo=Naver&logoColor=white"/></a>
@@ -44,7 +45,6 @@
 
 -->
 <!-- </div> -->
-
 
 <div align="center">
 <a href="https://github.com/3o14">
