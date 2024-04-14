@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=👋🏻%20Welcome%20to%203o14's%20GitHub&fontSize=40&fontAlignY=50&fontAlign=50&height=180&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=👋🏻%Hi%20there,%20I'm%20Wonju%20Lee&fontSize=40&fontAlignY=50&fontAlign=50&height=180&animation=twinkling)
 <div>
   <div align="center">
   
-### 👋🏻 Hi there, I'm Wonju Lee
+### Contact
 
 <a href="https://blog.naver.com/thinks-3o14"><img src="https://img.shields.io/badge/DiaryBlog-3DDC84?style=badge&logo=Naver&logoColor=white"/></a>
 <a href="https://www.instagram.com/want_u.u/"><img src="https://img.shields.io/badge/Instagram-F60070?style=badge&logo=Instagram&logoColor=pink"/></a>
