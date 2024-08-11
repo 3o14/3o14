@@ -1,8 +1,7 @@
 
 <div>
 
-# 이원주 | Mirei Lee
-
+# 이원주 | Mirei
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/) [![Next Badge](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)](https://nextjs.org/) [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 ### [RESUME](https://3o14-dev-resume.vercel.app/)
