@@ -10,7 +10,6 @@
 
 * [🕹️ 모 아니면 도 | 3D 게임으로 즐기는 학습 퀴즈 플랫폼](https://github.com/5wonju/frontend)
 * [🌙 꿈:틀 | 버킷리스트 리마인드 공유 SNS](https://github.com/ggumms/ggumtle)
-* [🍀 우연한 발견 | 위치기반 익명 SNS](https://github.com/wooyeonhan-inyeons)
 
 ### About me
 <a href="https://blog.naver.com/thinks-3o14"><img src="https://img.shields.io/badge/DiaryBlog-3DDC84?style=badge&logo=Naver&logoColor=white"/></a>
